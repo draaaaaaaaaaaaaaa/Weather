@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_dust.jpg.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\dust.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_drizzle.jpg.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\drizzle.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_freezing_rain.jpg.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\freezing_rain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_clear.png.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_lightcloud.png.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\lightcloud.png"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_tornado.jpg.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\tornado.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_color_cursor.xml.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\color_cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_thunderstorm.png.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\thunderstorm.png"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_snow.png.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\snow.png"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_sleet.png.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\sleet.png"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_icon_weather.xml.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\bg_icon_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\layout_row_item_weathe.xml.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\row_item_weathe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_volcanic.jpg.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\volcanic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_squalls.jpg.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\squalls.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_sand.jpg.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\sand.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_clear_night.jpg.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\clear_night.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_fog.jpg.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\fog.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_heavycloud.png.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\heavycloud.png"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_rain.png.flat",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\rain.png"
+    }
+]

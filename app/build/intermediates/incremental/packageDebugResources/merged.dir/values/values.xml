@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <array name="clear_id_list">
+        <item>800</item>
+    </array>
+    <array name="clouds_id_list">
+        <item>801</item>
+        <item>802</item>
+    </array>
+    <array name="drizzle_id_list">
+        <item>300</item>
+        <item>301</item>
+        <item>302</item>
+        <item>310</item>
+        <item>311</item>
+        <item>313</item>
+        <item>314</item>
+        <item>321</item>
+    </array>
+    <array name="dust_id_list">
+        <item>761</item>
+    </array>
+    <array name="fog_id_list">
+        <item>701</item>
+        <item>711</item>
+        <item>721</item>
+        <item>741</item>
+    </array>
+    <array name="freezing_rain_id_list">
+        <item>511</item>
+    </array>
+    <array name="heavy_clouds_id_list">
+        <item>803</item>
+        <item>804</item>
+    </array>
+    <array name="rain_id_list">
+        <item>500</item>
+        <item>501</item>
+        <item>502</item>
+        <item>503</item>
+        <item>504</item>
+        <item>520</item>
+        <item>521</item>
+        <item>522</item>
+        <item>531</item>
+    </array>
+    <array name="sand_id_list">
+        <item>731</item>
+        <item>751</item>
+    </array>
+    <array name="sleet_id_list">
+        <item>611</item>
+        <item>612</item>
+        <item>613</item>
+    </array>
+    <array name="snow_id_list">
+        <item>600</item>
+        <item>601</item>
+        <item>602</item>
+        <item>615</item>
+        <item>616</item>
+        <item>620</item>
+        <item>621</item>
+        <item>622</item>
+    </array>
+    <array name="squalls_id_list">
+        <item>771</item>
+    </array>
+    <array name="thunderstorm_id_list">
+        <item>200</item>
+        <item>201</item>
+        <item>202</item>
+        <item>210</item>
+        <item>211</item>
+        <item>212</item>
+        <item>221</item>
+        <item>230</item>
+        <item>231</item>
+        <item>232</item>
+    </array>
+    <array name="tornado_id_list">
+        <item>781</item>
+    </array>
+    <array name="volcanic_ash_id_list">
+        <item>762</item>
+    </array>
+    <color name="black">#FF000000</color>
+    <color name="gray">#80464646</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="transparent">#BFD0D0D0</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Weather App</string>
+    <string name="content_backgroun_page">Backgroun page whit Image by Weather</string>
+    <string name="decs_icon_weather">icon weather</string>
+    <string name="tv_city">city</string>
+    <string name="txt_degree">Degree</string>
+    <style name="NoActionBar" parent="Theme.WeatherApp">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+    <style name="Theme.WeatherApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="searchViewStyle" parent="Widget.AppCompat.SearchView">
+        <item name="android:textSize">20sp</item>
+        <item name="android:editTextColor">@color/white</item>
+        <item name="tint">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
+        <item name="android:textCursorDrawable">@drawable/color_cursor</item>
+
+
+    </style>
+</resources>

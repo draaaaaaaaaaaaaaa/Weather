@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res"/><source path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\build\generated\res\rs\debug"/><source path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res"><file name="bg_icon_weather" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\bg_icon_weather.xml" qualifiers="" type="drawable"/><file name="clear" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\clear.png" qualifiers="" type="drawable"/><file name="clear_night" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\clear_night.jpg" qualifiers="" type="drawable"/><file name="color_cursor" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\color_cursor.xml" qualifiers="" type="drawable"/><file name="drizzle" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\drizzle.jpg" qualifiers="" type="drawable"/><file name="dust" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\dust.jpg" qualifiers="" type="drawable"/><file name="fog" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\fog.jpg" qualifiers="" type="drawable"/><file name="freezing_rain" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\freezing_rain.jpg" qualifiers="" type="drawable"/><file name="heavycloud" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\heavycloud.png" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="lightcloud" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\lightcloud.png" qualifiers="" type="drawable"/><file name="rain" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\rain.png" qualifiers="" type="drawable"/><file name="sand" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\sand.jpg" qualifiers="" type="drawable"/><file name="sleet" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\sleet.png" qualifiers="" type="drawable"/><file name="snow" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\snow.png" qualifiers="" type="drawable"/><file name="squalls" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\squalls.jpg" qualifiers="" type="drawable"/><file name="thunderstorm" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\thunderstorm.png" qualifiers="" type="drawable"/><file name="tornado" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\tornado.jpg" qualifiers="" type="drawable"/><file name="volcanic" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable\volcanic.jpg" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\drawable-v24\ic_launcher_foreground.xml" qualifiers="v24" type="drawable"/><file name="activity_main" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="row_item_weathe" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\layout\row_item_weathe.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\mipmap-hdpi\ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\mipmap-hdpi\ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\mipmap-mdpi\ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\mipmap-mdpi\ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\mipmap-xhdpi\ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\mipmap-xhdpi\ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\mipmap-xxhdpi\ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\values\arrays.xml" qualifiers=""><array name="thunderstorm_id_list">
+        <item>200</item>
+        <item>201</item>
+        <item>202</item>
+        <item>210</item>
+        <item>211</item>
+        <item>212</item>
+        <item>221</item>
+        <item>230</item>
+        <item>231</item>
+        <item>232</item>
+    </array><array name="drizzle_id_list">
+        <item>300</item>
+        <item>301</item>
+        <item>302</item>
+        <item>310</item>
+        <item>311</item>
+        <item>313</item>
+        <item>314</item>
+        <item>321</item>
+    </array><array name="rain_id_list">
+        <item>500</item>
+        <item>501</item>
+        <item>502</item>
+        <item>503</item>
+        <item>504</item>
+        <item>520</item>
+        <item>521</item>
+        <item>522</item>
+        <item>531</item>
+    </array><array name="freezing_rain_id_list">
+        <item>511</item>
+    </array><array name="snow_id_list">
+        <item>600</item>
+        <item>601</item>
+        <item>602</item>
+        <item>615</item>
+        <item>616</item>
+        <item>620</item>
+        <item>621</item>
+        <item>622</item>
+    </array><array name="sleet_id_list">
+        <item>611</item>
+        <item>612</item>
+        <item>613</item>
+    </array><array name="clear_id_list">
+        <item>800</item>
+    </array><array name="clouds_id_list">
+        <item>801</item>
+        <item>802</item>
+    </array><array name="heavy_clouds_id_list">
+        <item>803</item>
+        <item>804</item>
+    </array><array name="fog_id_list">
+        <item>701</item>
+        <item>711</item>
+        <item>721</item>
+        <item>741</item>
+    </array><array name="sand_id_list">
+        <item>731</item>
+        <item>751</item>
+    </array><array name="dust_id_list">
+        <item>761</item>
+    </array><array name="volcanic_ash_id_list">
+        <item>762</item>
+    </array><array name="squalls_id_list">
+        <item>771</item>
+    </array><array name="tornado_id_list">
+        <item>781</item>
+    </array></file><file path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\values\colors.xml" qualifiers=""><color name="purple_200">#FFBB86FC</color><color name="purple_500">#FF6200EE</color><color name="purple_700">#FF3700B3</color><color name="teal_200">#FF03DAC5</color><color name="teal_700">#FF018786</color><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color><color name="gray">#80464646</color><color name="transparent">#BFD0D0D0</color></file><file path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Weather App</string><string name="content_backgroun_page">Backgroun page whit Image by Weather</string><string name="tv_city">city</string><string name="txt_degree">Degree</string><string name="decs_icon_weather">icon weather</string></file><file path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.WeatherApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style><style name="NoActionBar" parent="Theme.WeatherApp">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style><style name="searchViewStyle" parent="Widget.AppCompat.SearchView">
+        <item name="android:textSize">20sp</item>
+        <item name="android:editTextColor">@color/white</item>
+        <item name="tint">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
+        <item name="android:textCursorDrawable">@drawable/color_cursor</item>
+
+
+    </style></file><file path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Theme.WeatherApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style></file></source><source path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\build\generated\res\rs\debug"/><source path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Daffa\AndroidStudioProjects\WeatherApp\app\src\debug\res"/></dataSet><mergedItems/></merger>

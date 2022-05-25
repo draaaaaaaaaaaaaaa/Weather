@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_item_weathe.xml",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\row_item_weathe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Daffa\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
